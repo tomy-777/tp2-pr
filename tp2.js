@@ -1,3 +1,5 @@
+// TRABAJO HECHO POR TOMÁS ROMERO
+
 // 1: HERENCIA.
 
 class Figura {
